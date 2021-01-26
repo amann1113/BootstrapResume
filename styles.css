@@ -1,0 +1,10 @@
+.jumbotron {
+    background-color: blue;
+    height: 300px;
+    padding-top: 2em;
+}
+
+.row-justify-content-center {
+    color: white;
+}
+
